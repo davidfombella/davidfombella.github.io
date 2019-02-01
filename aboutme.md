@@ -1,15 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Big Data Sport
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mi nombre es David Fombella I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Consultor Senior Business Intelligence y Big Data
+- Profesor Universitario en diferentes Máster Big Data Deportivos
 
-What else do you need?
+
 
 ### my history
 
