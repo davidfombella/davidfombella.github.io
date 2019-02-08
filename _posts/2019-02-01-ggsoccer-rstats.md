@@ -15,14 +15,13 @@ You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll w
 ## rstats
 
 
+Lets Create this data viz for shots
 
-I will try this awesome library for basic plotting
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![shots](https://github.com/davidfombella/ggsoccer/blob/master/Examples_of_Code/Shotmap_StatsBomb.png)
 
 Code
 
-~~~
+```r
 # install.packages("devtools")
 # devtools::install_github("torvaney/ggsoccer")
 # I have to install manually rlang 
@@ -97,7 +96,7 @@ ggplot(shots_rescaled) +
 #  * [soccermatics](https://github.com/JoGall/soccermatics)
 #  * [SBpitch](https://github.com/FCrSTATS/SBpitch)
 
-~~~
+```
 
 
 
