@@ -47,7 +47,7 @@ ggplot(pass_data) +
   ggtitle("Passmap", "ggsoccer example")
 
 
-# Because ggsoccer is implemented as ggplot layers, it makes customising a plot very easy.
+# Because ggsoccer is implemented as ggplot layers, it makes customising a plot easy.
 # Here is a different example, plotting shots on a **gray** pitch.
 
 # Note that by default, ggsoccer will display the whole pitch. To display a
@@ -87,25 +87,16 @@ ggplot(shots_rescaled) +
   ggtitle("Shotmap", "ggsoccer example (120x80 co-ordinates)")
 
 
-
-## Other options
-
-# There are other packages that offer alternative pitch plotting options.
-# Depending on your use case, you may want to check these out too:
-
-#  * [soccermatics](https://github.com/JoGall/soccermatics)
-#  * [SBpitch](https://github.com/FCrSTATS/SBpitch)
-
 ```
 
 
-## Other options
+### Other options
 
-# There are other packages that offer alternative pitch plotting options.
-# Depending on your use case, you may want to check these out too:
+There are other packages that offer alternative pitch plotting options.
+Depending on your use case, you may want to check these out too:
 
-#  * [soccermatics](https://github.com/JoGall/soccermatics)
-#  * [SBpitch](https://github.com/FCrSTATS/SBpitch)
+ * [soccermatics](https://github.com/JoGall/soccermatics)
+ * [SBpitch](https://github.com/FCrSTATS/SBpitch)
 
 
 
